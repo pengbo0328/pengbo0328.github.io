@@ -26,7 +26,7 @@ HREF="stylesheet.css"><META
 HTTP-EQUIV="Content-Type"
 CONTENT="text/html; charset=ISO-8859-1"><META
 NAME="creation"
-CONTENT="2017-08-14T03:51:07"></HEAD
+CONTENT="2017-08-22T01:36:09"></HEAD
 ><BODY
 CLASS="SECT1"
 ><DIV
@@ -152,7 +152,7 @@ CLASS="LITERAL"
 >, <TT
 CLASS="LITERAL"
 >osspc19</TT
->, <TT
+> and <TT
 CLASS="LITERAL"
 >osspc20</TT
 >.
@@ -161,7 +161,7 @@ CLASS="LITERAL"
 >          <DIV
 CLASS="FIGURE"
 ><A
-NAME="AEN4722"
+NAME="AEN4731"
 ></A
 ><P
 ><B
@@ -195,7 +195,7 @@ CLASS="LITERAL"
 >, <TT
 CLASS="LITERAL"
 >Standby</TT
-> are not fixed and may change with operation.
+> are not fixed and may be changed by further operations.
           </P
 ></BLOCKQUOTE
 ></DIV
@@ -439,10 +439,10 @@ archive_command = 'cp "%p" "/var/lib/pgsql/archivedir/%f"'
 ></LI
 ><LI
 ><P
->Because of the security reasons, we need to create a user <TT
+>Because of the security reasons, we create a user <TT
 CLASS="LITERAL"
 >repl</TT
-> only for replication, and a user <TT
+> solely used for replication purpose, and a user <TT
 CLASS="LITERAL"
 >pgpool</TT
 > for streaming replication delay check and health check of <SPAN
@@ -460,7 +460,7 @@ CLASS="LITERAL"
 >, and edit <TT
 CLASS="FILENAME"
 >pg_hba.conf</TT
-> with <TT
+> to enable <TT
 CLASS="LITERAL"
 >md5</TT
 > authentication method.
@@ -637,7 +637,7 @@ CLASS="PROGRAMLISTING"
 >health_check_period = 5
                                    # Health check period
                                    # Disabled (0) by default
-health_check_timeout = 0
+health_check_timeout = 20
                                    # Health check timeout
                                    # 0 means no timeout
 health_check_user = 'pgpool'
