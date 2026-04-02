@@ -2,7 +2,7 @@
 title: "<i class='fas fa-blog'></i> Blog posts by Pgpool-II developers"
 permalink: /blogs/
 sidebar:
-  nav: "docs"
+  nav: "documentation"
 excerpt: "Blog posts by Pgpool-II developers."
 last_modified_at: 2026-03-26
 toc: true

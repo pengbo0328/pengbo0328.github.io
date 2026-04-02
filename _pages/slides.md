@@ -2,7 +2,7 @@
 title: "<i class='fas fa-file-powerpoint'></i> Conference Presentations"
 permalink: /slides/
 sidebar:
-  nav: "docs"
+  nav: "documentation"
 excerpt: "Conference Presentations."
 last_modified_at: 2026-03-26
 toc: true

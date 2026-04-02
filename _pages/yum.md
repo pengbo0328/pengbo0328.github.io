@@ -1,6 +1,6 @@
 ---
 title: "Pgpool-II Yum Repository"
-permalink: /yum/
+permalink: /download/yum/
 sidebar:
   nav: "download"
 excerpt: "Pgpool-II Yum Repository."

@@ -9,7 +9,7 @@ main:
   - title: "Download"
     url: /download/
   - title: "Documentation"
-    url: /docs/
+    url: /documentation/
   - title: "Community"
     url: /mailing_lists/
   - title: "Support"
@@ -38,16 +38,16 @@ download:
       - title: "Downloads"
         url: /download/
       - title: "Yum Repository"
-        url: /yum/
+        url: /download/yum/
       - title: "Apt Repository"
-        url: /apt/
+        url: /download/apt/
       - title: "Source"
-        url: /source/
-docs:
+        url: /download/source/
+documentation:
   - title: 
     children:
       - title: "Documentation"
-        url: /docs/
+        url: /documentation/
       - title: "Blog Posts"
         url: /blogs/
       - title: "Conference Presentations"

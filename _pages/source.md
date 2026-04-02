@@ -1,6 +1,6 @@
 ---
 title: "Pgpool-II Source Code"
-permalink: /source/
+permalink: /download/source/
 sidebar:
   nav: "download"
 excerpt: "Download."

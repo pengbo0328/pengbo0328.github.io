@@ -1,6 +1,6 @@
 ---
 title: "Apt Repository"
-permalink: /apt/
+permalink: /download/apt/
 sidebar:
   nav: "download"
 excerpt: "Download."

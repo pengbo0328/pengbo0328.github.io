@@ -1,8 +1,8 @@
 ---
 title: "<i class='fas fa-file-lines'></i> Documentation"
-permalink: /docs/
+permalink: /documentation/
 sidebar:
-  nav: "docs"
+  nav: "documentation"
 excerpt: "Pgpool-II documentation."
 last_modified_at: 2026-03-26
 toc: true
