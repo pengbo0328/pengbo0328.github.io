@@ -1,0 +1,63 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "News"
+    url: /latest_news/
+  - title: "Download"
+    url: /download/
+  - title: "Documentation"
+    url: /docs/
+  - title: "Community"
+    url: /mailing_lists/
+  - title: "Support"
+    url: /support/
+about:
+  - title: About
+    children:
+      - title: "Introduction"
+        url: /about/
+      - title: "License"
+        url: /license/
+      - title: "EOL information"
+        url: /eol/
+      - title: "FAQ"
+        url: /faq/
+news:
+  - title: News
+    children:
+      - title: "Latest News"
+        url: /latest_news/
+      - title: "News Archive"
+        url: /news_archive/
+download:
+  - title: Downloads
+    children:
+      - title: "Downloads"
+        url: /download/
+      - title: "Yum Repository"
+        url: /yum/
+      - title: "Apt Repository"
+        url: /apt/
+      - title: "Source"
+        url: /source/
+docs:
+  - title: 
+    children:
+      - title: "Documentation"
+        url: /docs/
+      - title: "Blog Posts"
+        url: /blogs/
+      - title: "Conference Presentations"
+        url: /slides/
+community:
+  - title: Community
+    children:
+      - title: "Mailing Lists"
+        url: /mailing_lists/
+      - title: "Bug Reports"
+        url: /bug_reports/
+      - title: "TODO"
+        url: /todo/
