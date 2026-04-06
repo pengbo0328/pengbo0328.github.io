@@ -16,7 +16,7 @@ If you’ve found a bug in Pgpool-II, please open [an Issue on GitHub](https://g
 * Please do not submit general questions to GitHub Issues. They should be posted to [pgpool-general mailing list](https://www.postgresql.org/list/pgpool-general/). (See (/Mailing lists/))
 * Please do not submit feature requests/proposals to GitHub Issues. They should be posted to [pgpool-hackers mailing list](https://www.postgresql.org/list/pgpool-hackers). (See (Mailing lists))
 
-For bugs reported before March 8, 2024, please refer to [Pgpool-II Bug Tracker (the old bug tracking system)](/mantisbt/). New bug reports will not be accepted there. Please use [GitHub Issue](https://github.com/pgpool/pgpool2/issues) instead.
+For bugs reported before March 8, 2024, please refer to [Pgpool-II Bug Tracker (the old bug tracking system)](/mantisbt/index.html). New bug reports will not be accepted there. Please use [GitHub Issue](https://github.com/pgpool/pgpool2/issues) instead.
 
 ### Before reporting an issue
 
