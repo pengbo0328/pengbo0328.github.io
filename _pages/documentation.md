@@ -20,7 +20,7 @@ Please select your preferred version and language from the options below.
 | **4.6**        | <i class='fas fa-file-lines'></i> [English](/docs/4.6/en/html/)  <i class='fas fa-file-lines'></i> [Japanese](/docs/4.6/en/html/)   |
 | **4.5**        | <i class='fas fa-file-lines'></i> [English](/docs/4.5/en/html/)  <i class='fas fa-file-lines'></i> [Japanese](/docs/4.5/en/html/)   |
 | **4.4**        | <i class='fas fa-file-lines'></i> [English](/docs/4.4/en/html/)  <i class='fas fa-file-lines'></i> [Japanese](/docs/4.4/en/html/)   |
-| **4.3**        | <i class='fas fa-file-lines'></i> [English](t/docs/4.3/en/html/)  <i class='fas fa-file-lines'></i> [Japanese](/docs/4.3/ja/html/)   |
+| **4.3**        | <i class='fas fa-file-lines'></i> [English](/docs/4.3/en/html/)  <i class='fas fa-file-lines'></i> [Japanese](/docs/4.3/ja/html/)   |
 
 ## Tutorials of Pgpool-II
 
