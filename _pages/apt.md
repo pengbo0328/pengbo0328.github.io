@@ -5,7 +5,7 @@ sidebar:
   nav: "download"
 excerpt: "Download."
 last_modified_at: 2026-03-26
-toc: true
+toc: false
 layout: single
 ---
 

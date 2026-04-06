@@ -72,3 +72,38 @@ table {
   font-size: 1rem;
   font-weight: 700;
 }
+
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+  margin-top: 2rem;
+}
+
+.logo-card {
+  text-align: center;
+  padding: 16px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.logo-card a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo-card img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 12px;
+}
+
+.logo-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+

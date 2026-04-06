@@ -21,10 +21,12 @@ about:
         url: /about/
       - title: "License"
         url: /license/
-      - title: "EOL information"
+      - title: "EOL Information"
         url: /eol/
       - title: "FAQ"
         url: /faq/
+      - title: "Pgpool-II Logos"
+        url: /logos/
 news:
   - title: News
     children:
@@ -43,6 +45,8 @@ download:
         url: /download/apt/
       - title: "Source"
         url: /download/source/
+      - title: "Git Repository"
+        url: /download/git/
 documentation:
   - title: 
     children:

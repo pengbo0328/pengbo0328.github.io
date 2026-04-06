@@ -12,7 +12,7 @@ header:
       url: "/documentation/"
 excerpt: >
   Feature-rich, open-source middleware for PostgreSQL connection pooling, load balancing and high availability.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.28.0">Latest release</a></small>
+  <small><a href="/latest_news/">Latest release</a></small>
 feature_row:
   - title: "<i class='fas fa-unlock'></i> 100% Open Source"
     alt: "customizable"

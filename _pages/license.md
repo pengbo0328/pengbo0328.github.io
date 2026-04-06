@@ -20,3 +20,8 @@ specific, written prior permission. The author makes no representations about th
 suitability of this software for any purpose. It is provided "as is" without express
 or implied warranty.
 
+[Download Image](/assets/images/pgpool-II_elephant_150x150.png)
+
+<a href="{{ '/assets/images/pgpool-II_elephant_150x150.png' | relative_url }}" download="pgpool-II_elephant.png">
+  <img src="{{ '/assets/images/pgpool-II_elephant_150x150.png' | relative_url }}" alt="Pgpool-II logo">
+</a>

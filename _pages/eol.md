@@ -1,5 +1,5 @@
 ---
-title: "<i class='fas fa-code-branch'></i> EOL information"
+title: "<i class='fas fa-code-branch'></i> EOL Information"
 permalink: /eol/
 sidebar:
   nav: "about"
